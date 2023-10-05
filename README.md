@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Maderator
 - 👀 interested in time-series forecasting
-- 🌱 currently learning everything about flavours of LSTM and deep reinforcement learning
-- 💞️ looking to collaborate on macro forecasts
+- 🌱 currently learning everything about LSTM networks and their various usecases
 - 📫 janmadera97@gmail.com
 - Github pages: https://maderator.github.io/pages/
 
